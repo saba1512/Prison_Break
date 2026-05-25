@@ -15,7 +15,7 @@ function Header() {
             </Link>
           </li>
           <li>
-            <a href="/About" className="text-xs md:text-sm font-bold uppercase tracking-wider text-slate-400 no-underline transition-all duration-300 hover:text-[#00f0ff]">
+            <a href="/about" className="text-xs md:text-sm font-bold uppercase tracking-wider text-slate-400 no-underline transition-all duration-300 hover:text-[#00f0ff]">
               About
             </a>
           </li>
